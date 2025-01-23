@@ -12,3 +12,7 @@ javascript
 var name="Rishi"
 
 ```
+- [x] created new branch
+- [x] added file
+- [x] changes have been made at file
+- [ ] didnot perform pull request  
